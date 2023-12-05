@@ -1,2 +1,3 @@
 # hello world
 #bu dosya kursadaydin tarafından hazırlandı
+#Burası da web sitesinden yazıldı....
